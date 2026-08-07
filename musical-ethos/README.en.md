@@ -154,4 +154,8 @@ These three cases demonstrate the necessity of grasping “who controls ethos”
 
 ---
 
+**Related document:** [AI Purify](AI-Purify.en.md)
+
+---
+
 *This record aims to make the trajectory of examination visible and does not fix final conclusions. Candidates for further development are to be considered separately as Stage 10.*
