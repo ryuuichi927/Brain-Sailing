@@ -17,6 +17,13 @@ A public repository for recording and developing philosophical and intellectual 
 - **[English Version](musical-ethos/README.en.md)**
 - **[中文版](musical-ethos/README.zh.md)**
 
-This is the first recorded examination idea in Brain-Sailing.
-本リポジトリに記録された最初の考察アイデアです。
-这是 Brain-Sailing 中记录的第一篇考察想法。
+---
+
+## Second Entry / 第二の考察 / 第二篇考察
+
+### Internal Musical Replay and Affective Drift: From R to R*
+内部音楽再生と感情的ドリフト：R から R\* へ
+
+- **[日本語版 (Japanese)](internal-musical-replay/README.md)**
+- **[English Version](internal-musical-replay/README.en.md)**
+- **[中文版](internal-musical-replay/README.zh.md)**
