@@ -27,3 +27,14 @@ A public repository for recording and developing philosophical and intellectual 
 - **[日本語版 (Japanese)](internal-musical-replay/README.md)**
 - **[English Version](internal-musical-replay/README.en.md)**
 - **[中文版](internal-musical-replay/README.zh.md)**
+
+---
+
+## Third Entry / 第三の考察 / 第三篇考察
+
+### The Co-Created World and the Observing Self
+共作される世界と観測する自分 — 聴取という自己認識の考察
+
+- **[日本語版 (Japanese)](co-created-world/README.md)**
+- **[English Version](co-created-world/README.en.md)**
+- **[中文版](co-created-world/README.zh.md)**
