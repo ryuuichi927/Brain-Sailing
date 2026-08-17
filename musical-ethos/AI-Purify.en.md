@@ -2,6 +2,8 @@
 
 **Purpose**  
 Sailing is a diary of the development of thought and questions.  
+**AI used:** A mixture of Grok and Claude.
+
 Purify is a record of AI verification of the extent to which the foundations of that thought are supported by primary sources and contemporary scholarly consensus.
 
 Each Stage is examined under the following headings:
