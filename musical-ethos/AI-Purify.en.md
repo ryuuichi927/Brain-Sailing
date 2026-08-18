@@ -1,14 +1,14 @@
 # Brain-Sailing (AI Purify)
 
 **Purpose**  
-Sailing is a diary of the development of thought and questions.  
-**AI used:** A mixture of Grok and Claude.
+Sailing is a diary of the development of thought and questions.
 
-Purify is a record of AI verification of the extent to which the foundations of that thought are supported by primary sources and contemporary scholarly consensus.
+Purify is a record of AI verification of the extent to which the foundations of that thought are supported by primary sources and contemporary scholarly consensus.  
+**AI used for the verification:** A mixture of Grok and Claude.
 
 Each Stage is examined under the following headings:
 
-- Core of your understanding
+- Core of the understanding
 - Verification against primary / major sources
 - Contemporary scholarly consensus and related literature
 - Confirmed nuances and points of contention
@@ -18,7 +18,7 @@ Each Stage is examined under the following headings:
 
 ## Stage 0 — Starting Point: Introduction of the Concept of Ethos
 
-**Core of your understanding**  
+**Core of the understanding**  
 Music objectively carries ethos and shapes the soul of the listener through mimesis and habituation. In Plato’s *Republic*, the Dorian mode is recommended for courage and steadfastness, the Phrygian for temperance; soft and lamenting modes are excluded. The lineage runs from Damon to Plato, against the background of Pythagorean cosmic–soul harmony.
 
 **Verification against primary text**  
@@ -37,7 +37,7 @@ Strongly supported by primary text and standard secondary literature. The precis
 
 ## Stage 1 — First Intuition: The Ancient–Modern Divide
 
-**Core of your understanding**  
+**Core of the understanding**  
 In antiquity the listener is passively formed by the ethos carried in the music. In modernity the listener actively substitutes and applies ethos according to personal experience and identity. This reversal is underwritten by the loss of sacred order and by the modern conception of the self as a project of self-construction.
 
 **Verification against primary / major sources**  
@@ -56,7 +56,7 @@ The modern-self component is supported by Taylor. The passive/active reversal it
 
 ## Stage 2 — Discovery and Correction of Causal Simplification
 
-**Core of your understanding**  
+**Core of the understanding**  
 The linear causal claim “loss of sacred order → music becomes mere material” is insufficient. The loss removed the ground of reception; the vacuum was filled by the modern conception of identity as a self-assembling project.
 
 **Verification and evaluation**  
@@ -69,7 +69,7 @@ The correction itself demonstrates intellectual honesty and is historically supp
 
 ## Stage 3 — Dual Layering of the Historical Turning Point
 
-**Core of your understanding**  
+**Core of the understanding**  
 On the conceptual plane: the Romantic shift from mimesis to the expression of individual interiority and genius. On the technological plane: the phonograph separates music from the site of performance; the Walkman (1979) turns it into a portable personal soundtrack. The history of “personal music” is at most 200–300 years long.
 
 **Verification against primary / major sources**  
@@ -88,7 +88,7 @@ The conceptual side is solid. The technological side is sustainable when limited
 
 ## Stage 4 — Retracing the Origins of the Authority of Ethos
 
-**Core of your understanding**  
+**Core of the understanding**  
 The absolute authority rests on two pillars: numerical correspondence with cosmic/divine order, and long-standing experiential effects. Experience came first; theory later authenticated it.
 
 **Verification and evaluation**  
@@ -101,7 +101,7 @@ The two-pillar account is supportable. A strict claim that “experience came fi
 
 ## Stage 5 — Digging into the Underlying Logic (Original Hypothesis)
 
-**Core of your understanding**  
+**Core of the understanding**  
 The starting point is the human drive to explain (curiosity); “god” is a result of that drive, not its origin. When the explanation of change in the external world and the explanation of change in the inner world become structurally linked, pleasure may be amplified multiplicatively.
 
 **Related literature and positioning**  
@@ -112,7 +112,7 @@ The hypothesis itself is original. The following empirical and theoretical studi
 - Research on curiosity and exploratory listening (MDPI 2024; Mencke et al. on time-varying music engagement): curiosity generates reward when progress in learning is sensed.
 - Aesthetic experience as learning / Bayesian prediction (e.g. *Frontiers in Human Neuroscience* 2023): the process of integrating complex information and updating predictive models is itself rewarding.
 
-These studies strongly support the claims that “the fulfilment of explanation generates reward” and that “prediction and learning lie at the core of musical pleasure.” Your further claim—that structural linkage of the two kinds of explanation produces multiplicative amplification—stands as an original extension of this body of work.
+These studies strongly support the claims that “the fulfilment of explanation generates reward” and that “prediction and learning lie at the core of musical pleasure.” The further claim—that structural linkage of the two kinds of explanation produces multiplicative amplification—stands as an original extension of this body of work.
 
 **Confirmed nuances**  
 No literature currently offers direct empirical demonstration of a specifically “multiplicative” amplification model. The broader direction—that interaction among prediction, curiosity, learning and meaning-making generates pleasure—is, however, well supported by the research cited above.
@@ -127,7 +127,7 @@ The model according to which pleasure is multiplicatively amplified when the exp
 
 ## Stage 6 — Extension to Nietzsche and Wagner, and Self-Correction
 
-**Core of your understanding**  
+**Core of the understanding**  
 Nietzsche’s ideal of the Dionysian and of the composer as a self-effacing conduit. Through self-correction, Beethoven and Wagner are repositioned as figures who design ethos as authors.
 
 **Verification and evaluation**  
@@ -140,7 +140,7 @@ Supported by primary text and standard scholarship.
 
 ## Stage 7 — Connection to Beethoven
 
-**Core of your understanding**  
+**Core of the understanding**  
 The collapse of patronage and the emergence of the concert market created the conditions under which the individual composer could design and own ethos. After the Heiligenstadt Testament and the disillusionment with Napoleon, the Ninth becomes an attempt to reforge ethos with one’s own hands.
 
 **Major literature**  
@@ -156,7 +156,7 @@ The transition from patronage to market is strongly supported by DeNora. Formula
 
 ## Stage 8 — The “Ideological Time-Bomb” Hypothesis
 
-**Core of your understanding**  
+**Core of the understanding**  
 The Ninth has repeatedly “detonated” at moments when individual self-pursuit or the redefinition of community reached a critical threshold. Ethos is not a constantly operating attribute but a time-device that activates when the conditions are met.
 
 **Major facts**  
@@ -173,7 +173,7 @@ The specific instances are supported by primary and secondary sources. Generalis
 
 ## Stage 9 — Expansion to Cross-Cultural Comparison
 
-**Core of your understanding**  
+**Core of the understanding**  
 The need to relativise the Western linear model by comparison with Chinese ritual music (liyue), the griot tradition, and Sámi joik, and to reconceive the phenomenon along three axes: object of attachment, authority of design, and passive–active polarity.
 
 **Primary / major sources**  

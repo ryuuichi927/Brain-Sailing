@@ -1,14 +1,14 @@
 # Brain-Sailing (AI Purify)
 
 **Purpose**  
-Sailing is a diary of the development of thoughts and questions.  
-**AI used:** A mixture of Grok and Claude.
+Sailing is a diary of the development of thoughts and questions.
 
-Purify is a record in which AI verifies the extent to which that foundation is supported by primary sources and current academic consensus.
+Purify is a record in which AI verifies the extent to which that foundation is supported by primary sources and current academic consensus.  
+**AI used for the verification:** A mixture of Grok and Claude.
 
 Each point is examined under the following headings:
 
-- Core of your understanding
+- Core of the understanding
 - Cross-check with primary / major sources
 - Current academic consensus and related literature
 - Confirmed nuances and points of contention
@@ -18,7 +18,7 @@ Each point is examined under the following headings:
 
 ## Stage 0 — Starting Point: Internal Musical Replay and R → R\* Drift
 
-**Core of your understanding**  
+**Core of the understanding**  
 After listening to music, the human mind often continues to replay it involuntarily (involuntary musical imagery / earworms). The representation R formed during initial listening undergoes subtle deformation, emphasis, and omission through repeated internal replay, and accumulates as a drifted representation R\*.
 
 **Cross-check with primary / major sources**  
@@ -37,7 +37,7 @@ The INMI phenomenon itself is strongly supported. Formalizing the process as R �
 
 ## Stage 1 — Distinguishing Knowledge Learning from Music Learning
 
-**Core of your understanding**  
+**Core of the understanding**  
 Knowledge learning is fundamentally about correction against a ground truth. Music has no such ground truth. What occurs are mismatches with experience (weaker uplift than expected, noticing disliked parts, changed understanding of lyrics). In this case, the observable outcome of learning should be treated as affective fluctuation, not correctness.
 
 **Cross-check with primary / major sources**  
@@ -56,7 +56,7 @@ The distinction is consistent with related fields and stands as an original form
 
 ## Stage 2 — The Proposal of Machine Internal Rehearsal (“Dream Training”)
 
-**Core of your understanding**  
+**Core of the understanding**  
 Deliberately induce the human INMI process inside a machine. Subject an initially learned R to repeated internal rehearsal, generate and accumulate drifted R\*, and observe how emotion predictions change when R\* is re-entered.
 
 **Cross-check with primary / major sources**  
@@ -75,8 +75,8 @@ The proposal stands as an original question beyond the existing MER framework. F
 
 ## Stage 3 — Function of the Mechanism
 
-**Core of your understanding**  
-Under current theory the function is not yet settled. Hypotheses include memory consolidation, mood regulation, and epiphenomenon. On your view, the drift R → R\* is not “correction of error” but “re-processing of the value and felt quality of the piece for the present self.”
+**Core of the understanding**  
+Under current theory the function is not yet settled. Hypotheses include memory consolidation, mood regulation, and epiphenomenon. On this view, the drift R → R\* is not “correction of error” but “re-processing of the value and felt quality of the piece for the present self.”
 
 **Cross-check with primary / major sources**  
 Liikkanen & Jakubowski (2020) explicitly state that the possible function of INMI is not yet fully understood. Memory-consolidation and mood-regulation hypotheses are suggested but lack decisive evidence.
@@ -90,13 +90,13 @@ Liikkanen & Jakubowski (2020) explicitly state that the possible function of INM
 Interpreting the process as “re-processing” is consistent with both consolidation and mood-regulation hypotheses. Formalizing it as “re-processing of value and felt quality,” however, is an original hypothesis without direct empirical support at present.
 
 **Present status and open issues**  
-The assessment that the function remains unresolved is accurate, as is the placement of your hypothesis. The “re-processing” hypothesis is a high-potential target for future empirical verification.
+The assessment that the function remains unresolved is accurate, as is the placement of the hypothesis. The “re-processing” hypothesis is a high-potential target for future empirical verification.
 
 ---
 
 ## Stage 4 — Field Placement
 
-**Core of your understanding**  
+**Core of the understanding**  
 The intersection of music psychology (Musical Imagery × Music & Emotion) and research on spontaneous cognition / involuntary memory. If the machine side is pursued, it also enters computational music cognition. The distinctive element is not merely observing human INMI, but deliberately inducing R → R\* drift inside a machine and examining the resulting change in affective prediction.
 
 **Cross-check and evaluation**  
